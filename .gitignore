@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Institute.Common/bin/Debug/net8.0
+/Institute.Common/obj
+/Institute.Dao/bin/Debug/net8.0
+/Institute.Dao/obj
+/Institute.Service/bin/Debug/net8.0
+/Institute.Service/obj/Debug/net8.0
+/Institute.Service/obj
+/InstituteWebAPI/.vs/InstituteWebAPI
+/InstituteWebAPI/bin/Debug/net8.0
+/InstituteWebAPI/obj
